@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.container-fluid{
 	display:grid;
 	grid-template-columns:auto;
 	grid-template-rows:auto;
